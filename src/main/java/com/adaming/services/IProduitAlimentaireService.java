@@ -1,4 +1,4 @@
-package com.adaming.entities.services;
+package com.adaming.services;
 
 public interface IProduitAlimentaireService {
 
